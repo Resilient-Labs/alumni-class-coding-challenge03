@@ -11,7 +11,7 @@ Make sure that you don't count duplicates; for example solve([[1,2],[4,4],[5,6,6
 [Codewars Link](https://www.codewars.com/kata/59e66e48fc3c499ec5000103)
 
 
-### How to submit your code for review:
+### How to submit your code for review  :
 
 - Fork and clone this repo
 - Create a new branch called solutions
